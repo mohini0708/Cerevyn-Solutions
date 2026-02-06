@@ -1,0 +1,1 @@
+This is a full-stack Hostel Allocation web application built using React.js for the frontend and Node.js with Express for the backend. It provides user authentication and complete CRUD operations (add, view, edit, delete) for managing student records through RESTful APIs. The application demonstrates frontend–backend integration, API design, and database interaction.
